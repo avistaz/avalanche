@@ -1,2 +1,2 @@
-# avalanche
-Avalanche Torrent Portal
+# AvistaZ Avalanche
+## BitTorrent Portal
